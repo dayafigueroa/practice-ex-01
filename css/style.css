@@ -1,0 +1,26 @@
+.background {
+  background-color: #000;
+  margin: 25px auto;
+  padding: 25px 25px;
+  color: #fff;
+  height: 120px;
+}
+p {
+  margin: 0;
+  font-family: 'Droid Serif';
+  font-size: 16px;
+
+}
+
+.float-l {
+  float: left;
+}
+
+.float-r {
+  float: right;
+  color: #fff;
+}
+
+.inline {
+  display: inline;
+}
